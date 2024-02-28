@@ -1,0 +1,2 @@
+# TernarySort
+TernarySort Sorting algorithm
